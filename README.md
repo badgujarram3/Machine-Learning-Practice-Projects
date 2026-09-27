@@ -122,49 +122,6 @@ This helped me understand the practical relationship between:
 
 ---
 
-## 📁 Repository Structure
-
-Each project is organized separately.
-
-```text
-Machine-Learning-Practice-Projects/
-│
-├── Breast cancer/
-│   ├── dataset / data source
-│   ├── notebook
-│ 
-├── Car Price Prediction/
-│   ├── dataset
-│   ├── notebook
-│
-├── Diabetes Prediction/
-│   ├── dataset
-│   ├── notebook
-│   
-├── Gold price prediction/
-│   ├── dataset
-│   ├── notebook
-│
-├── Red wine/
-│   ├── dataset
-│   ├── notebook
-│
-├── rock or mine prediction/
-│   ├── dataset
-│   ├── notebook
-
-├── smartcart customers/
-│   ├── dataset
-│   ├── notebook
-│
-├── spam mail/
-│   ├── dataset
-│   ├── notebook
-│
-└── README.md
-
----
-
 ## 📬 Connect With Me
 
 * GitHub: https://github.com/badgujarram3
